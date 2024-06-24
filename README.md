@@ -1,7 +1,7 @@
 # berlin-marathon-analysis
 Description:
 
-This repository contains the CIS 5450 final project by Caroline Cummings, Cameron Bosio-Kim, and Julia Fremberg. The project investigates the impact of environmental factors on Berlin Marathon race times from 1974 to 2019. Using datasets with runner demographics and weather conditions, the analysis aims to predict marathon finishing times and identify key patterns.
+Our project investigates the impact of environmental factors on Berlin Marathon race times from 1974 to 2019. Using datasets with runner demographics and weather conditions, the analysis aims to predict marathon finishing times and identify key patterns.
 
 **Datasets:**
 
